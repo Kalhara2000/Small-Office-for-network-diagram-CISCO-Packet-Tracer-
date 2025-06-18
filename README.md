@@ -176,7 +176,8 @@ Security: WPA2-PSK (Optional for simulation)
 
 
   <h2>📸 Screenshots</h2>
-  ![Screenshot 2025-06-18 083854](https://github.com/user-attachments/assets/dd19818a-e198-4229-8f54-70e2494f7a5f)
+<img src="![Screenshot 2025-06-18 083854](https://github.com/user-attachments/assets/95713058-86ee-4cb3-bbf4-cb7fe49502af)
+" alt="Screenshot - CMD Open in Folder" width="600" />
   
 
   <h2>🙌 Author</h2>
