@@ -173,10 +173,6 @@ Security: WPA2-PSK (Optional for simulation)
     <li>Inter-VLAN routing allows communication across departments</li>
     <li>Network is secure, scalable, and functional</li>
   </ul>
-
-
-  <h2>📸 Screenshots</h2>
-![Screenshot 2025-06-18 083854](https://github.com/user-attachments/assets/95713058-86ee-4cb3-bbf4-cb7fe49502af).</br>
   
 
   <h2>🙌 Author</h2>
