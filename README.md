@@ -160,7 +160,7 @@ do write</code></pre>
   </ul>
 
   <h3>🌐 Sample Wireless Configuration on Access Point</h3>
-  <pre><code>// On Access Point GUI or CLI
+  <pre><code>// On Access Point GUI
 SSID: Admin-WiFi
 VLAN: 10
 DHCP: Enabled
@@ -176,7 +176,9 @@ Security: WPA2-PSK (Optional for simulation)
 
 
   <h2>📸 Screenshots</h2>
-  <p>![Screenshot 2025-06-18 083854](https://github.com/user-attachments/assets/dd19818a-e198-4229-8f54-70e2494f7a5f)</p>
+  <p>![Screenshot 2025-06-18 083854](https://github.com/user-attachments/assets/dd19818a-e198-4229-8f54-70e2494f7a5f)
+  ![cmd](https://github.com/user-attachments/assets/1aaf662b-51d4-4710-9642-0c4c13078670)
+  </p>
 
   <h2>🙌 Author</h2>
   <p><strong>Thamindu Kalhara</strong><br>
